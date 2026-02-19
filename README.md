@@ -65,6 +65,7 @@ Evaluation Metrics:
 
 The model explains approximately 90% of the variance in housing prices.
 
+![Model Evaluation](assets/evaluacion.png)
 ---
 
 ## 🔍 Batch Prediction
