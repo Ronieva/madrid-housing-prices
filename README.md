@@ -109,5 +109,4 @@ Batch inference was executed using:
 
 ## 👤 Author
 
-Rafa Onieva  
-Data Engineer / Machine Learning Engineer  
+Rafael Onieva Molina   
